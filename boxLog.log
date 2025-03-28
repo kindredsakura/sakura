@@ -1,0 +1,7 @@
+2025-03-28 17:35:36.919  INFO 23748 --- [restartedMain] o.nefu.softlab.weiboAPI.APIApplication   : Starting APIApplication on DESKTOP-TGNDMNA with PID 23748 (C:\Users\sakura\Desktop\g_project\target\classes started by sakura in C:\Users\sakura\Desktop\g_project)
+2025-03-28 17:35:36.920  INFO 23748 --- [restartedMain] o.nefu.softlab.weiboAPI.APIApplication   : No active profile set, falling back to default profiles: default
+2025-03-28 17:35:39.104  INFO 23748 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-03-28 17:35:39.104  INFO 23748 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.20
+2025-03-28 17:35:39.169  INFO 23748 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-03-28 17:35:40.635  INFO 23748 --- [restartedMain] o.n.s.w.c.connectionPool.SSHPool         : SSH Connection Pool is disabled.
+2025-03-28 17:35:42.188  INFO 23748 --- [restartedMain] o.nefu.softlab.weiboAPI.APIApplication   : Started APIApplication in 5.606 seconds (JVM running for 6.782)
